@@ -17,9 +17,13 @@ You're constantly bookmarking tweets but finding a particular one can be a compl
 ## Here's what well use:
 
 **1. Python 🐍**
+
 **2. Twitter API 🐦**
+
 **3. Notion API 📝**
+
 **4. GPT-3 API 🤖** *(optional)*
+
 
 ## Detailed walkthrough
 Read blog post for a detailed walkthrough: https://norahsakal.com/blog/automatically-organize-twitter-bookmarks-in-notion
