@@ -14,7 +14,7 @@ You're constantly bookmarking tweets but finding a particular one can be a compl
 8. Refresh your auth token
 
 
-## Here's what well use:
+## Here's what we'll use:
 
 **1. Python 🐍**
 
